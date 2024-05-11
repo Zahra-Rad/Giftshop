@@ -6,7 +6,7 @@
 
 - Created - May 2024
 
-- 🔧 Technologies Used - html , css3 , javascript
+- 🔧 Technologies Used - html , css3 , tailwind , javascript
 
 - Role - Frontend
 
